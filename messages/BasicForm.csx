@@ -16,7 +16,7 @@ public class BasicForm
     [Prompt("Wie ist der Titel Deines Projekts?")]
     public string Title { get; set; }
 
-    [Prompt("Wer ist der Projektleiter?")]
+    [Prompt("Wer ist der Projektmanager?")]
     public string ProjectManager { get; set; }
 
 
